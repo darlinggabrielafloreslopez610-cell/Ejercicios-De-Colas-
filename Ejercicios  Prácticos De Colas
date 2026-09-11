@@ -1,0 +1,25 @@
+Este repositorio contiene la práctica de estructuras de datos correspondiente a la implementación y utilización de una cola (`Queue`) en Python.
+
+## Contenido
+
+La práctica está conformada por **9 ejercicios**, Previamente asignados.
+Además, el repositorio contiene la estructura `Queue` utilizada como base para desarrollar los ejercicios.
+
+## Estructura
+
+- `queue_structure.py` — Implementación de la estructura Queue.
+- `Ejercicio1.py` — Ejercicio 1.
+- `Ejercicio2.py` — Ejercicio 2.
+- `Ejercicio3.py` — Ejercicio 3.
+- `Ejercicio4.py` — Ejercicio 4.
+- `Ejercicio5.py` — Ejercicio 5.
+- `Ejercicio6.py` — Ejercicio 6.
+- `Ejercicio7.py` — Ejercicio 7.
+- `Ejercicio8.py` — Ejercicio 8.
+- `Ejercicio9.py` — Ejercicio 9.
+- `Integrantes.txt` — Información de los integrantes del equipo.
+
+## Lenguaje utilizado
+
+- Python
+- `collections.deque`
